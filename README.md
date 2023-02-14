@@ -1,1 +1,2 @@
 # BIF-516-MOLECULAR-MODELLING-AND-DRUG-DESIG
+Lecture Notes for PG students
